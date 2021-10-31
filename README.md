@@ -87,7 +87,7 @@
 + [Extract single pages of a PDF document](08-documents/02-extract-single-pages-of-a-pdf-document.md)
 + [Concatenate multiple PDF document to a single PDF document](08-documents/03-concatenate-multiple-pdf-documents-to-a-single-pdf-document.md)
 + [Rotate a PDF document](08-documents/04-rotate-a-pdf-document.md)
-+ [Extend or reduce page margins of PDF documents](08-documents/05-extand-or-reduce-page-margins-of-pdf-documents.md)
++ [Extend or reduce page margins of PDF documents](08-documents/05-extend-or-reduce-page-margins-of-pdf-documents.md)
 + [Scale PDF document to DIN A5](08-documents/06-scale-pdf-document-to-din-a5.md)
 + [Search for a text phrase in all PDF files of a certain directory](08-documents/07-search-for-a-text-phrase-in-all-pdf-documents-in-a-certain-directory.md)
 
