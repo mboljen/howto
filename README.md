@@ -17,7 +17,7 @@
 
 + [Repair GRUB boot loader using Live USB Image](02-system/01-repair-grub-boot-loader-using-live-usb-image.md)
 + [Upgrade a running Debian system from stable to testing](02-system/02-upgrade-running-debian-system-from-stable-to-testing.md)
-+ [Find package providing a specific file in software repository](02-system/03-find-package-providing-a-specific-file-in-a-software-repository.md)
++ [Find package providing a specific file in software repository](02-system/03-find-package-providing-specific-file-in-a-software-repository.md)
 
 
 ## File system operations
@@ -27,7 +27,7 @@
 + [Create an ISO image from an external media](03-media/02-create-iso-image-from-external-media.md)
 + [Create ISO image from folder](03-media/03-create-iso-image-from-folder.md)
 + [Mount ISO image](03-media/04-mount-iso-image.md)
-+ [Record CD or DVD from ISO image](03-media/05-record-cd-or-dvd-from-an-iso-image.md)
++ [Record CD or DVD from ISO image](03-media/05-record-cd-or-dvd-from-iso-image.md)
 + [Create Live system on USB drive from ISO image](03-media/06-create-live-system-on-usb-drive-from-usb-image.md)
 + [Erase a rewritable CD+RW disk](03-media/07-erase-rewritable-cd+rw-disk.md)
 + [Format a rewritable DVD+RW disk](03-media/08-format-rewritable-dvd+rw-disk.md)
