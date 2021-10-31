@@ -58,7 +58,7 @@
 + [Convert photos to PNG format](06-photo/01-convert-photos-to-png-format.md)
 + [Place logo in image file](06-photo/02-place-logo-in-an-image-file.md)
 + [Place text in image files](06-photo/03-place-text-in-image-files.md)
-+ [Add or modify the original date and time of a JPEG image](06-photo/04-add-or-modifiy-the-original-date-and-time-of-a-jpeg-image.md)
++ [Add or modify the original date and time of a JPEG image](06-photo/04-add-or-modify-the-original-date-and-time-of-a-jpeg-image.md)
 
 
 ## Video editing
