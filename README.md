@@ -17,7 +17,7 @@
 
 + [Repair GRUB boot loader using Live USB Image](02-system/01-repair-grub-boot-loader-using-live-usb-image.md)
 + [Upgrade a running Debian system from stable to testing](02-system/02-upgrade-running-debian-system-from-stable-to-testing.md)
-+ [Find package providing a specific file in software repository](02-system/03-find-package-providing-specific-file-in-a-software-repository.md)
++ [Find package providing a specific file in software repository](02-system/03-find-package-providing-specific-file-in-software-repository.md)
 
 
 ## File system operations
@@ -40,7 +40,7 @@
 
 + [Find all hard linked files in and below a directory](04-search/01-find-all-hard-linked-files-in-and-below-a-directory.md)
 + [Remove all duplicate files in and below a directory with hard links](04-search/02-remove-all-duplicate-files-in-and-below-a-directory-with-hard-links.md)
-+ [Find all files and execute a certain command](04-search/03-find-all-files-and-execute-a-a-certain-command.md)
++ [Find all files and execute a certain command](04-search/03-find-all-files-and-execute-a-certain-command.md)
 + [Change all file extensions to lowercase characters](04-search/04-change-all-file-extensions-to-lowercase-letters.md)
 + [Find all files containing a specific text recursively](04-search/05-find-all-files-containing-a-specific-text-recursively.md)
 
