@@ -7,7 +7,7 @@
 + [Add an existing user to an existing group](01-users/01-add-existing-user-to-existing-group.md)
 + [Assign another primary group to an existing user](01-users/02-assign-another-primary-group-to-existing-user.md)
 + [Terminate all processes of a normal user](01-users/03-terminate-all-processes-of-a-normal-user.md)
-+ [Change the UID of an existing user and the GID of an existing group](01-users/04-change-the-uid-of-an-exisitng-user-and-the-gid-of-an-existing-group.md)
++ [Change the UID of an existing user and the GID of an existing group](01-users/04-change-the-uid-of-an-existing-user-and-the-gid-of-an-existing-group.md)
 + [List all members of a Kerberos group](01-users/05-list-all-members-of-a-kerberos-group.md)
 + [Reset ACL permissions of an existing file structure](01-users/06-reset-acl-permissions-of-an-existing-file-structure.md)
 
@@ -16,19 +16,19 @@
 
 
 + [Repair GRUB boot loader using Live USB Image](02-system/01-repair-grub-boot-loader-using-live-usb-image.md)
-+ [Upgrade a running Debian system from stable to testing](02-system/02-upgrade-a-running-debian-system-from-stable-to-testing.md)
-+ [Find package in software repository providing a specific file](02-system/03-find-a-package-in-a-software-repository-providing-a-specific-file.md)
++ [Upgrade a running Debian system from stable to testing](02-system/02-upgrade-running-debian-system-from-stable-to-testing.md)
++ [Find package providing a specific file in software repository](02-system/03-find-package-providing-a-specific-file-in-a-software-repository.md)
 
 
 ## File system operations
 
 
-+ [Change the label of a FAT file system](03-media/01-change-the-label-of-a-fat-file-system.md)
++ [Change the label of a FAT file system](03-media/01-change-the-label-of-fat-file-system.md)
 + [Create an ISO image from an external media](03-media/02-create-iso-image-from-external-media.md)
 + [Create ISO image from folder](03-media/03-create-iso-image-from-folder.md)
 + [Mount ISO image](03-media/04-mount-iso-image.md)
-+ [Record CD or DVD from ISO image](03-media/05-record-cr-or-dvd-from-an-iso-image.md)
-+ [Create Live system on USB drive from ISO image](03-media/06-create-live-system-on-an-usb-drive-from-usb-image.md)
++ [Record CD or DVD from ISO image](03-media/05-record-cd-or-dvd-from-an-iso-image.md)
++ [Create Live system on USB drive from ISO image](03-media/06-create-live-system-on-usb-drive-from-usb-image.md)
 + [Erase a rewritable CD+RW disk](03-media/07-erase-rewritable-cd+rw-disk.md)
 + [Format a rewritable DVD+RW disk](03-media/08-format-rewritable-dvd+rw-disk.md)
 + [Grep longest track on DVD disk](03-media/09-grep-longest-track-on-dvd-disk.md)
