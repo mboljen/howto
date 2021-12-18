@@ -18,6 +18,7 @@
 + [Repair GRUB boot loader using Live USB Image](02-system/01-repair-grub-boot-loader-using-live-usb-image.md)
 + [Upgrade a running Debian system from stable to testing](02-system/02-upgrade-running-debian-system-from-stable-to-testing.md)
 + [Find package providing a specific file in software repository](02-system/03-find-package-providing-specific-file-in-software-repository.md)
++ [Monitor log messages of system service](02-system/04-monitor-log-messages-of-system-service.md)
 
 
 ## File system operations
