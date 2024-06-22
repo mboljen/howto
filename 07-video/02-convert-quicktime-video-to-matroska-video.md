@@ -6,7 +6,7 @@
 
 The following command will convert a Quicktime video `input.mov` to the Matroska video `output.mkv`.
 
-```bash
+```console
 $ ffmpeg -i infile.mov -c copy outfile.mkv
 ```
 

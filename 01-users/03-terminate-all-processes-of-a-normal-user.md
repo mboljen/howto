@@ -6,7 +6,7 @@
 
 The following command will terminate all processes of user `fred`. Do not apply this command to kill all processes of the root user.
 
-```bash
+```console
 $ pkill -KILL -u fred
 ```
 

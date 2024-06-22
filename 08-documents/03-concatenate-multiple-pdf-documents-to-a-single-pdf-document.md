@@ -6,7 +6,7 @@
 
 The following command will concatenate the files `infile1.pdf` and `infile2.pdf` and write the result to the file `outfile.pdf`.
 
-```bash
+```console
 $ pdftk infile1.pdf infile2.pdf cat output outfile.pdf
 ```
 

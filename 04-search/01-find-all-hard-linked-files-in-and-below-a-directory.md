@@ -6,7 +6,7 @@
 
 The following command will find all hard-linked files in the directory `/home/fred` sharing the same inode as file `test.txt`.
 
-```bash
+```console
 $ find /home/fred -samefile test.txt
 ```
 

@@ -6,7 +6,7 @@
 
 The following command will create the image `image.iso` from the contents of device `/dev/cdrom`.
 
-```bash
+```console
 $ dd if=/dev/cdrom of=image.iso
 ```
 

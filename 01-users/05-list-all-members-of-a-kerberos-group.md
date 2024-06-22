@@ -6,7 +6,7 @@
 
 The following commands will list all members of the Kerberos group `dudes`.
 
-```bash
+```console
 $ kinit
 $ ipa group-show dudes
 ```

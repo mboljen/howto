@@ -6,7 +6,7 @@
 
 The following command will scale the file `infile.pdf` to page format `a5paper` and write the result to the file `outfile.pdf`.
 
-```bash
+```console
 $ pdfjoin infile.pdf --paper a5paper --fitpaper false --outfile outfile.pdf
 ```
 

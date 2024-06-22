@@ -6,7 +6,7 @@
 
 The following command will detect the longest track on a DVD disk.
 
-```bash
+```console
 $ lsdvd | grep Longest
 ```
 

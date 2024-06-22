@@ -6,7 +6,7 @@
 
 The following command will record a CD on the device `/dev/cdrw` from the ISO image `image.iso`.
 
-```bash
+```console
 $ cdrecord -v -eject -tao dev=/dev/cdrw image.iso
 ```
 

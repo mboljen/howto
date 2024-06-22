@@ -6,7 +6,7 @@
 
 The following command will rotate the file `infile.pdf` clockwise about 90 degrees and write the result to the file `outfile.pdf`.
 
-```bash
+```console
 $ pdftk infile.pdf cat E output outfile.pdf
 ```
 

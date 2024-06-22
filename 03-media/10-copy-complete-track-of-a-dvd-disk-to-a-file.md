@@ -6,7 +6,7 @@
 
 The following command will copy track `2` of a DVD disk to the file `track2.vob`.
 
-```bash
+```console
 $ mplayer dvd://2 -v -dumpstream -dumpfile track2.vob
 ```
 

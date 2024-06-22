@@ -6,7 +6,7 @@
 
 This command will make the group `dudes` the primary group of user `fred`.
 
-```bash
+```console
 $ usermod -g dudes fred
 ```
 

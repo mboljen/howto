@@ -6,7 +6,7 @@
 
 The following command will concatenate the Matroska files `infile1.mkv` and `infile2.mkv` and create the output file `outfile.mkv`.
 
-```bash
+```console
 $ mkvmerge -o outfile.mkv infile1.mkv + infile2.mkv
 ```
 

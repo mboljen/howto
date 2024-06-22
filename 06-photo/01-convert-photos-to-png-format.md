@@ -6,7 +6,7 @@
 
 The following command will convert all JPEG files in the current working directory to PNG files.
 
-```bash
+```console
 $ mogrify -format png *.jpg
 ```
 

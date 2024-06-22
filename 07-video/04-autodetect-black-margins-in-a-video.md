@@ -6,7 +6,7 @@
 
 The following command will auto-detect a potentially black margin in the video file `videofile`. The output denotes the width, height and the horizontal and vertical offset in pixels and the format `width:height:xoff:yoff`.
 
-```bash
+```console
 $ ffplay -i videofile -vf "cropdetect=24:16:0"
 ```
 

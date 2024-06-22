@@ -6,13 +6,13 @@
 
 In order to increase the playback speed of the video `infile` reduce the presentation time-stamp parameter.
 
-```bash
+```console
 $ ffmpeg -i infile -vf "setpts=0.5*PTS" outfile
 ```
 
 In order to decrease the playback speed of the video `infile` increase the presentation time-stamp parameter.
 
-````bash
+````console
 $ ffmpeg -i infile -vf "setpts=2.0*PTS" outfile
 ````
 

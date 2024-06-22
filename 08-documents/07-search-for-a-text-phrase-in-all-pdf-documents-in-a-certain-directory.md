@@ -6,7 +6,7 @@
 
 The following command will look for the phrase `password` in all PDF documents in the folder `/home/fred`
 
-```bash
+```console
 $ pdfgrep -H 'password' /home/fred
 ```
 

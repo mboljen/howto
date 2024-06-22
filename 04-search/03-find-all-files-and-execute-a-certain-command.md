@@ -6,7 +6,7 @@
 
 The following command will find all files in and below the directory `/home/fred` and invoke the command `du -h` on each file.
 
-```bash
+```console
 $ find /home/fred -type f -exec du -h {} \;
 ```
 

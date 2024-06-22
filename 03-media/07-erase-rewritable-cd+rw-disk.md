@@ -6,7 +6,7 @@
 
 The following command will erase a rewritable CD+RW disk.
 
-```bash
+```console
 $ cdrecord dev=/dev/cdrw blank=all
 ```
 

@@ -6,7 +6,7 @@
 
 The following command will format a rewritable DVD+RW disk.
 
-```bash
+```console
 $ growisofs -Z /dev/dvdrw=/dev/zero
 ```
 

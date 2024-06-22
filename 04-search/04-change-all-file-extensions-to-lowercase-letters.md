@@ -6,7 +6,7 @@
 
 The following command will convert the file extensions of all files in and below `/home/fred` into lowercase characters.
 
-```bash
+```console
 $ find /home/fred -type f -name '*.*' -exec sh -c 'a=$(echo "$0" | sed -r "s/([^.]*)\$/\L\1/") ; [ "$a" != "$0" ] && mv "$0" "$a" ' {} \;
 ```
 

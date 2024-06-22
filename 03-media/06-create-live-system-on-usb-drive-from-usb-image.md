@@ -6,7 +6,7 @@
 
 The following command will record a live image `image.iso` to the device `/dev/sdc`.
 
-```bash
+```console
 $ dd if=image.iso of=/dev/sdc bs=8M
 ```
 

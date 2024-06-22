@@ -6,7 +6,7 @@
 
 The following command will add the user `fred` to the existing group `dudes`.
 
-```bash
+```console
 $ usermod -a -G dudes fred
 ```
 

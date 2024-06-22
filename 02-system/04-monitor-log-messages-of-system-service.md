@@ -6,13 +6,13 @@
 
 Use the following command to continuously monitor the log messages of a system service
 
-```bash
+```console
 $ sudo journalctl -f -u name-of-service
 ```
 
 In this example, the output of the service `autosuspend.service` will be monitored:
 
-```bash
+```console
 $ sudo journalctl -f -u autosuspend
 ```
 

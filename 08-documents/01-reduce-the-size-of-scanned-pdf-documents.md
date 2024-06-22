@@ -6,7 +6,7 @@
 
 The following command will reduce the size of a scanned PDF document `infile` to screen-view-only quality and write the result to the file `outfile`.
 
-```bash
+```console
 $ ps2pdf14 -dPDFSETTINGS=/screen infile outfile
 ```
 

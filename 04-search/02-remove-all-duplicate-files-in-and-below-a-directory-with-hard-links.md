@@ -6,7 +6,7 @@
 
 The following command will remove all duplicate files in and below the directory `/home/fred`  with hard links excluding zero-length files.
 
-```bash
+```console
 $ fdupes -rHn /home/fred
 ```
 
